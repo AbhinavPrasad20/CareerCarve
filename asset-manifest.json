@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CareerCarve/static/css/main.c69e97e7.css",
+    "main.js": "/CareerCarve/static/js/main.638b1d94.js",
+    "static/js/787.44dc6711.chunk.js": "/CareerCarve/static/js/787.44dc6711.chunk.js",
+    "index.html": "/CareerCarve/index.html",
+    "main.c69e97e7.css.map": "/CareerCarve/static/css/main.c69e97e7.css.map",
+    "main.638b1d94.js.map": "/CareerCarve/static/js/main.638b1d94.js.map",
+    "787.44dc6711.chunk.js.map": "/CareerCarve/static/js/787.44dc6711.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c69e97e7.css",
+    "static/js/main.638b1d94.js"
+  ]
+}
